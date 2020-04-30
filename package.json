@@ -2,7 +2,7 @@
   "name": "smartswap",
   "description": "smartswap Exchange Protocol",
   "version": "0.1.0",
-  "homepage": "https://viraj124.github.io/Smart-Swap",
+  "homepage": "https://viraj124.github.io/smartswapprotocol",
   "private": true,
   "dependencies": {
     "@maticnetwork/maticjs": "^2.0.0-beta.9",
