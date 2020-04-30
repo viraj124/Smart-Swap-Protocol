@@ -1,0 +1,112 @@
+Compiling .\contracts\development\Compound\src\CErc20.sol...
+Compiling .\contracts\development\Compound\src\CToken.sol...
+Compiling .\contracts\development\Compound\src\CarefulMath.sol...
+Compiling .\contracts\development\Compound\src\Comptroller.sol...
+Compiling .\contracts\development\Compound\src\ComptrollerInterface.sol...
+Compiling .\contracts\development\Compound\src\ComptrollerStorage.sol...
+Compiling .\contracts\development\Compound\src\EIP20Interface.sol...
+Compiling .\contracts\development\Compound\src\EIP20NonStandardInterface.sol...
+Compiling .\contracts\development\Compound\src\ErrorReporter.sol...
+Compiling .\contracts\development\Compound\src\Exponential.sol...
+Compiling .\contracts\development\Compound\src\InterestRateModel.sol...
+Compiling .\contracts\development\Compound\src\PriceOracle.sol...
+Compiling .\contracts\development\Compound\src\ReentrancyGuard.sol...
+Compiling .\contracts\development\Compound\src\Unitroller.sol...
+Compiling .\contracts\development\Compound\src\WhitePaperInterestRateModel.sol...
+Writing artifacts to .\build\contracts
+
+⚠️  Important ⚠️
+If you're using an HDWalletProvider, it must be Web3 1.0 enabled or your migration will hang.
+
+
+Starting migrations...
+======================
+> Network name:    'matic'
+> Network id:      8995
+> Block gas limit: 8000000
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x54eb5a535072bbfd668ef0d8ee4bab275a18ba8314e297ed002deb6ee54e9e0e
+   > Blocks: 3            Seconds: 5
+   > contract address:    0xa7B92D2E52589c7DAe67794e5163C2d4B3363041
+   > account:             0x2a5c6E0Eb76915466C0CE771DCFb6f258a572336
+   > balance:             32.197404867279979185
+   > gas used:            221107
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00221107 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00221107 ETH
+
+
+2_deploy_compound_sandbox.js
+============================
+
+   Deploying 'FakeDai'
+   -------------------
+   > transaction hash:    0x4db5c778c75fff58a8c7eeb2a916b8f497d2bc2104e24947c5d3460c077c6827
+   > Blocks: 3            Seconds: 5
+   > contract address:    0x005FCCFADf26b9a9d93a48B9cFd7091750A5Ef01
+   > account:             0x2a5c6E0Eb76915466C0CE771DCFb6f258a572336
+   > balance:             32.189228667279979185
+   > gas used:            817620
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0081762 ETH
+
+
+   Deploying 'FakeCDaiInterestRateModel'
+   -------------------------------------
+   > transaction hash:    0x99771fd8c49f72384508b7d5e82b4dde684b18490921908eabbd0f4543afaf2d
+   > Blocks: 2            Seconds: 5
+   > contract address:    0x77b5A39FDC7bff9b24cDfea24Da7377591489d3B
+   > account:             0x2a5c6E0Eb76915466C0CE771DCFb6f258a572336
+   > balance:             32.184070397279979185
+   > gas used:            515827
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00515827 ETH
+
+
+   Deploying 'FakeComptroller'
+   ---------------------------
+   > transaction hash:    0x45626cc753ec014f633f4e5ee70e71b63234ae7e528e9698e1356d3a5a052181
+   > Blocks: 2            Seconds: 5
+   > contract address:    0xeA83D43f6a43fB87777a9aa883104de91e7cd7c5
+   > account:             0x2a5c6E0Eb76915466C0CE771DCFb6f258a572336
+   > balance:             32.152230037279979185
+   > gas used:            3184036
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.03184036 ETH
+
+
+   Deploying 'FakeCDai'
+   --------------------
+   > transaction hash:    0x2214ff8670ef6b64db2ce09caecd21a21189ff2ef440f585a11e58066402a7eb
+   > Blocks: 2            Seconds: 5
+   > contract address:    0xf190929858f5f6dC55A03B40C25545fE9c79CF8c
+   > account:             0x2a5c6E0Eb76915466C0CE771DCFb6f258a572336
+   > balance:             32.096546927279979185
+   > gas used:            5568311
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.05568311 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.10085794 ETH
+
+
+Summary
+=======
+> Total deployments:   5
+> Final cost:          0.10306901 ETH
+
