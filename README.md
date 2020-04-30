@@ -51,7 +51,7 @@
    (Note -> The Addresses used mentioned in the Contract Addresses Section below are our own so you need to replace those to run the dapp    for your self, contact virajm72@gmail.com/aveeshshetty1@gmail.com/snaketh4xor@protonmail.com as there are a few files where you need   to change the addresses)
 
 #### Set Up NFT Market
-1. As the [NftMarket Contract](https://github.com/viraj124/Smart-Swap/blob/master/NFT-Exchange/contracts/NFTMarketplace.sol) has admin level permissions so you will need to set up your own.
+1. As the [NftMarket Contract](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/NFT-Exchange/contracts/NFTMarketplace.sol) has admin level permissions so you will need to set up your own.
 2. Refer [this](https://gist.github.com/snaketh4x0r/78e673a3c865ac5240aad49d4751d8dc) to get started.
    Note - You can use the Nft Test Contract mentioned in the above link [here](https://gist.github.com/snaketh4x0r/6968fa193cf7b46e801529478375e737)
    
@@ -103,8 +103,8 @@ and they gave the go ahead for scripts)
   [NOTE - We Would recommend checking out the demo video first]
   
 ### Contract Addresses
-- You can find the ERC20, NFT(LAND) and Uniswap Exchange addresses [here](https://github.com/viraj124/Smart-Swap/blob/master/src/contexts/Tokens.js)
-- All Compound Contract Addresses are [here](https://github.com/viraj124/Smart-Swap/blob/master/Compound%20Contract%20Addresses.txt)
+- You can find the ERC20, NFT(LAND) and Uniswap Exchange addresses [here](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/src/contexts/Tokens.js)
+- All Compound Contract Addresses are [here](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/Compound%20Contract%20Addresses.txt)
 - NFT MarketPlace Address -> 0x1b5666b40f30231879f8a5dedfc78cdda7cacf77
 
 ### Tools Used
