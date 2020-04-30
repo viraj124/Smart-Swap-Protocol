@@ -48,7 +48,7 @@
 1. Clone the Repo
 2. Do npm install
 3. Naviagte to ------ and start swapping:)
-   (Note -> The Addresses used mentioned in the Contract Addresses Section below are our own so you need to replace those to run the dapp    for your self, contact virajm72@gmail.com/aveeshshetty1@gmail.com/snaketh4xor@protonmail.com as there a few files where you need to    change the addresses)
+   (Note -> The Addresses used mentioned in the Contract Addresses Section below are our own so you need to replace those to run the dapp    for your self, contact virajm72@gmail.com/aveeshshetty1@gmail.com/snaketh4xor@protonmail.com as there are a few files where you need   to change the addresses)
 
 #### Set Up NFT Market
 1. As the [NftMarket Contract](https://github.com/viraj124/Smart-Swap/blob/master/NFT-Exchange/contracts/NFTMarketplace.sol) has admin level permissions so you will need to set up your own.
