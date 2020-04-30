@@ -106,6 +106,11 @@ and they gave the go ahead for scripts)
 - You can find the ERC20, NFT(LAND) and Uniswap Exchange addresses [here](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/src/contexts/Tokens.js)
 - All Compound Contract Addresses are [here](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/Compound%20Contract%20Addresses.txt)
 - NFT MarketPlace Address -> 0x1b5666b40f30231879f8a5dedfc78cdda7cacf77
+- In Addition to there are some specific Components of the Dapp that requires you own set of addresses
+- LAND Address [here](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/src/contexts/Balances.tsx#L232)
+- LAND Address [here](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/src/components/NFTInputPanel/index.js)
+- NFT Market Address [here](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/src/components/NFTExchangePage/index.jsx#L192)
+- CDAI Address [here](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/src/components/ExchangePage/index.jsx#L351)
 
 ### Tools Used
 
@@ -120,6 +125,6 @@ and they gave the go ahead for scripts)
 
 ### Authors
 
-1. Viraz
+1. [Viraz](https://www.linkedin.com/in/viraz-malhotra-8a1639118/)
 2. snaketh4x0r
 3. Aveesh
