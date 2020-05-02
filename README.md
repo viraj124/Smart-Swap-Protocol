@@ -3,25 +3,25 @@
 
 ## Introduction
 
-- Exchanging has been part of human civilization right from when humans began trading,in early phase it was Barter system which was used to exchange goods between two parties,fast forward to modern age we have blockchain to trade goods(represented by monetary units of tokens).
+- Exchanging has been part of human civilization right from when humans began trading, in the early phase, it was Barter system which was used to exchange goods between two parties, fast forward to the modern age we have blockchain to trade goods(represented by monetary units of tokens).
 
-- Now its possible to trade without trusting the opposite part thanks to guarantees provided by blockchain
+- Now it's possible to trade without trusting the opposite part thanks to guarantees provided by blockchain
 
-- First we have Order-Book based Dexes for transacting between multiple parties,They had their weekness such as                
+- First, we have Order-Book based Dexes for transacting between multiple parties, They had their weaknesses such as :                
 1. No fair pricing
 2. multiple transactions just to do a simple exchange of two tokens
 3. Bad UI/UX and many more
 4. Then we had introduction of AMM by vitalik which led to creation of bancor and uniswap
 5. This solved quick exchange swap for many users
 
-#### Only problem is now we have Ethereum blockchain
+#### Issues we face with Ethereum :
 
-1. which has 15 sec transaction confirmation
-2. high gas prices which makes transacting anytime you want difficult
-3. waiting for hours due to high gas prices which can affect price you get when trading(Makerdao black thursday is such a example)
-4. we need a place for fast exchange
+1. 15 sec transaction confirmation
+2. High gas prices which makes transacting anytime you want difficult
+3. Waiting for hours due to high gas prices which can affect price you get when trading(Makerdao black thursday is such a example)
+4. We need a place for fast exchange
 
-- thankfully we have plasma sidechain binded to main etherum network which solves much problems with scalability without scarificing much decentralization.
+- Thankfully we have plasma sidechain binded to main etherum network which solves much problems with scalability without scarificing much decentralization.
 - We have come up with plasma exchange solution with fast exchange and less gas fees
 
 - Users can visit test website link and login using wallet of their choice by clicking on connect
@@ -46,9 +46,10 @@
 
 ### Installation Steps
 1. Clone the Repo
-2. Do npm install
-3. Naviagte to ------ and start swapping:)
-   (Note -> The Addresses used mentioned in the Contract Addresses Section below are our own so you need to replace those to run the dapp    for your self, contact virajm72@gmail.com/aveeshshetty1@gmail.com/snaketh4xor@protonmail.com as there are a few files where you need   to change the addresses)
+2. Do npm install/yarn install
+3. Now run yarn start
+4. Naviagte to http://localhost:3000 and start swapping:)
+   (Note -> The Addresses used mentioned in the Contract Addresses Section below are our own so you need to replace those to run the dapp    for your self, we have mentioned below in which files do you need to change address, if you face any trouble contact virajm72@gmail.com/aveeshshetty1@gmail.com/snaketh4xor@protonmail.com as there are a few files where you need   to change the addresses)
 
 #### Set Up NFT Market
 1. As the [NftMarket Contract](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/NFT-Exchange/contracts/NFTMarketplace.sol) has admin level permissions so you will need to set up your own.
@@ -88,7 +89,7 @@ and they gave the go ahead for scripts)
 [Smart Swap Demo](https://youtu.be/s1MwWU7gymQ)
 
 ### Website
-[Links with title](http://localhost/ "link title")
+[Smart Swap](https://smart-swaps.web.app/)
 
 ### Sample Transaction Links For Reference
 - ETH<->MANA -> 0x003b9b872b81b0b9ad0f4745eb61c196a813a1ef7501c1a058aec5a817e9fad6
@@ -126,5 +127,5 @@ and they gave the go ahead for scripts)
 ### Authors
 
 1. [Viraz](https://www.linkedin.com/in/viraz-malhotra-8a1639118/)
-2. snaketh4x0r
-3. Aveesh
+2. [snaketh4x0r](https://twitter.com/snaketh4x0r?s=09)
+3. [Aveesh](https://www.linkedin.com/in/aveesh-shetty-139689193/)
