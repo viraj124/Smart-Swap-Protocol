@@ -90,6 +90,7 @@ and they gave the go ahead for scripts)
 
 ### Website
 [Smart Swap](https://smart-swaps.web.app/)
+NOTE - This is hosted with our own pair of addresses, please check the Contract Addresses section below and replace with your addresses
 
 ### Sample Transaction Links For Reference
 - ETH<->MANA -> 0x003b9b872b81b0b9ad0f4745eb61c196a813a1ef7501c1a058aec5a817e9fad6
@@ -104,6 +105,7 @@ and they gave the go ahead for scripts)
   [NOTE - We Would recommend checking out the demo video first]
   
 ### Contract Addresses
+- Please replace with your own set of addresses at the following locations
 - You can find the ERC20, NFT(LAND) and Uniswap Exchange addresses [here](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/src/contexts/Tokens.js)
 - All Compound Contract Addresses are [here](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/Compound%20Contract%20Addresses.txt)
 - NFT MarketPlace Address -> 0x1b5666b40f30231879f8a5dedfc78cdda7cacf77
