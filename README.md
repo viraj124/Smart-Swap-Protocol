@@ -1,6 +1,8 @@
 
 # SmartSwap
 
+#### Note - All Contracts are deployed on Matic Test V2 Network
+
 ## Introduction
 
 - Exchanging has been part of human civilization right from when humans began trading, in the early phase, it was Barter system which was used to exchange goods between two parties, fast forward to the modern age we have blockchain to trade goods(represented by monetary units of tokens).
