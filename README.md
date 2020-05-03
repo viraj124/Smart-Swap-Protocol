@@ -34,6 +34,8 @@
 
 - If Users want to buy any ERC20 Token they can buy using swap page by selecting tokens from dropdown
 
+- They can addLiquidity for their Exchange, create an ERC20 Uniswap Exchange
+
 - They can swap and send tokens to another address using send page
 
 - They can provide their assets to be available for exchange and collect fees
@@ -55,8 +57,8 @@
 
 #### Set Up NFT Market
 1. As the [NftMarket Contract](https://github.com/viraj124/Smart-Swap-Protocol/blob/master/NFT-Exchange/contracts/NFTMarketplace.sol) has admin level permissions so you will need to set up your own.
-2. Refer [this](https://gist.github.com/snaketh4x0r/78e673a3c865ac5240aad49d4751d8dc) to get started.
-   Note - You can use the Nft Test Contract mentioned in the above link [here](https://gist.github.com/snaketh4x0r/6968fa193cf7b46e801529478375e737)
+2. Refer this [guide](https://gist.github.com/snaketh4x0r/78e673a3c865ac5240aad49d4751d8dc) to get started.
+   Note - You can find the Nft Test Contract mentioned in the above link for minting [here](https://gist.github.com/snaketh4x0r/6968fa193cf7b46e801529478375e737)
    
 #### Matic Bridge 
 
